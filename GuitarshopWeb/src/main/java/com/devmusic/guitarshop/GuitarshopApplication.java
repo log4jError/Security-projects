@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GuitarshopApplication {
-	// review comments added - test purpose 
+	// review comments added - test purpose thank you
 	public static void main(String[] args) {
 		SpringApplication.run(GuitarshopApplication.class, args);
 	}
