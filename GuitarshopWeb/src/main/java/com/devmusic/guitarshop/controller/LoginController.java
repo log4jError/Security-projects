@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 public class LoginController {
+	//review comments
 	@RequestMapping(value="/loginSystem", method=RequestMethod.GET)
 	public String loginPage() {
 		
