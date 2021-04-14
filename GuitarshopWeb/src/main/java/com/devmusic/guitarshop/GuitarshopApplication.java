@@ -9,5 +9,6 @@ public class GuitarshopApplication {
 	// something changed here please pull
 	public static void main(String[] args) {
 		SpringApplication.run(GuitarshopApplication.class, args);
+		//added this test comment
 	}
 }
