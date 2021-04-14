@@ -12,5 +12,6 @@ public class GuitarshopApplication {
 		//added this test comment
         //Some more here
 		//Just to check MFA option
+		System.out.println("Something");
 	}
 }
